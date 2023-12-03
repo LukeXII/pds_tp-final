@@ -8,3 +8,4 @@ Links de referencia:
 * https://github.com/ucb-art/pfb
 * https://vhdlwhiz.com/part-5-polyphase-fir-filters/
 * https://github.com/DHMarinov/Polyphase_Filter
+* https://eeweb.engineering.nyu.edu/iselesni/EL713/zoom/mrate.pdf
